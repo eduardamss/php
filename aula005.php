@@ -3,16 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=<w, initial-scale=1.0">
+    <meta name="viewport" content="width=, initial-scale=1.0">
     <title>Document</title>
 </head>
 <body>
     <?php
     $n1 = 3;
-    $n2 = 5;
+    $n2 =2;
     $s = $n1 + $n2;
-    echo "O resultado da soma  é" . ($n1 + $n2);
-
+    echo " A soma é $s"
     ?>
 </body>
 </html>
